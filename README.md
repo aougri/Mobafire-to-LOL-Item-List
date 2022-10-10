@@ -79,7 +79,7 @@ Now, you have done the harder work, you have only a bit to go!
 
 - As i chose [this](https://www.mobafire.com/league-of-legends/build/raens-tryndamere-tips-amp-build-569493) excellent Tryn guide, my final screen looks like this:
 
-<img src="assets/endscreen.png"/>
+<img src="assets/final.png"/>
 
 
 # Acknowledgements
