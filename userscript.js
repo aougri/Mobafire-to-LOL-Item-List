@@ -759,7 +759,7 @@ String.prototype.has = function (findWhat) {
   
   let Button = document.createElement("button");
   Button.style =
-    "position:fixed; top:50px; right:7px; z-index:999999; border:0px; background:darkred; color:#bbcbe8; padding:5px 9px; font-family:'Helvetica','Open Sans',sans-serif,sans-serif";
+    "position:fixed; top:50px; right:7px; z-index:999999; border:0px; background:darkblue; color:#bbcbe8; padding:5px 9px; font-family:'Helvetica','Open Sans',sans-serif,sans-serif";
   Button.innerHTML = "Items JSON";
   Button.onmouseover = function () {
     document.getElementById("TheTextarea").value = document.GatherTheData();
